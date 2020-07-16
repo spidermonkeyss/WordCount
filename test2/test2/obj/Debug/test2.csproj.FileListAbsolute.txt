@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\test2\test2\bin\Debug\test2.exe.config
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\test2\test2\bin\Debug\test2.exe
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\test2\test2\bin\Debug\test2.pdb
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\test2\test2\obj\Debug\test2.csprojAssemblyReference.cache
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\test2\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\test2\test2\obj\Debug\test2.exe
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\test2\test2\obj\Debug\test2.pdb
